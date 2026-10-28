@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Tessie is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://tessie.com/
+Tessie provides a Tesla management platform offering apps, analytics, automations and APIs for the world's most sophisticated vehicles. Trusted by over 500,000 Tesla drivers and fleet managers, it enables comprehensive vehicle data access, remote control, and fleet optimization through robust RESTful APIs and webhooks.
+
+**Areas:** Company · Tesla · Fleet Management · Automotive · APIs
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://tessie.com/)
+- [Documentation](https://www.tessie.com/developers)
+- [Getting started](https://developer.tessie.com/reference/quick-start)
+- [API reference](https://developer.tessie.com/llms.txt)
+- [Pricing](https://www.tessie.com/pricing)
+- [Security](https://www.tessie.com/security)
+- [Terms of service](https://www.tessie.com/terms)
+- [Privacy policy](https://www.tessie.com/privacy)
+- [GitHub](https://github.com/tessietech)
+- [Status](https://status.tessie.com)
+
+**APIs profiled:** 4
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/tessie/](https://apis.io/providers/tessie/).
